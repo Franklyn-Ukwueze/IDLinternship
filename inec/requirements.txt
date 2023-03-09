@@ -1,0 +1,2 @@
+requests >= 1.0.4
+beautifulsoup >= 4.0.0
